@@ -1,0 +1,14 @@
+{
+  "name": "js-lm-28.1-mapty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "other.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.7.1"
+  }
+}
